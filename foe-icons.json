@@ -1,0 +1,291 @@
+[
+{
+  "Name": "Broken",
+  "Type": "Ironlanders",
+  "icon": "skull-mask"
+},
+{
+  "Name": "Common Folk",
+  "Type": "Ironlanders",
+  "icon": "uprising"
+},
+{
+  "Name": "Hunter",
+  "Type": "Ironlanders",
+  "icon": "hunting-horn"
+},
+{
+  "Name": "Husk",
+  "Type": "Ironlanders",
+  "icon": "bad-breath"
+},
+{
+  "Name": "Mystic",
+  "Type": "Ironlanders",
+  "icon": "sheikah-eye"
+},
+{
+  "Name": "Raider",
+  "Type": "Ironlanders",
+  "icon": "flaming-arrow"
+},
+{
+  "Name": "Warrior",
+  "Type": "Ironlanders",
+  "icon": "viking-shield"
+},
+{
+  "Name": "Zealot",
+  "Type": "Ironlanders",
+  "icon": "cultist"
+},
+{
+  "Name": "Atanya",
+  "Type": "Firstborn",
+  "icon": "spearfishing"
+},
+{
+  "Name": "Elf",
+  "Type": "Firstborn",
+  "icon": "ceremonial-mask"
+},
+{
+  "Name": "Giant",
+  "Type": "Firstborn",
+  "icon": "boot-stomp"
+},
+{
+  "Name": "Merrow",
+  "Type": "Firstborn",
+  "icon": "triton-head"
+},
+{
+  "Name": "Primordial",
+  "Type": "Firstborn",
+  "icon": "volcano"
+},
+{
+  "Name": "Troll",
+  "Type": "Firstborn",
+  "icon": "snatch"
+},
+{
+  "Name": "Varou",
+  "Type": "Firstborn",
+  "icon": "anubis"
+},
+{
+  "Name": "Bear",
+  "Type": "Animals",
+  "icon": "bear-face"
+},
+{
+  "Name": "Bladewing",
+  "Type": "Animals",
+  "icon": "pterodactylus"
+},
+{
+  "Name": "Boar",
+  "Type": "Animals",
+  "icon": "boar-tusks"
+},
+{
+  "Name": "Carrion Newt",
+  "Type": "Animals",
+  "icon": "gecko"
+},
+{
+  "Name": "Cave Lion",
+  "Type": "Animals",
+  "icon": "saber-toothed-cat-head"
+},
+{
+  "Name": "Deep Rat",
+  "Type": "Animals",
+  "icon": "grasping-claws"
+},
+{
+  "Name": "Gaunt",
+  "Type": "Animals",
+  "icon": "drakkar-dragon"
+},
+{
+  "Name": "Marsh Rat",
+  "Type": "Animals",
+  "icon": "rat"
+},
+{
+  "Name": "Nightmare Spider",
+  "Type": "Animals",
+  "icon": "spider-eye"
+},
+{
+  "Name": "Wolf",
+  "Type": "Animals",
+  "icon": "wolf-head"
+},
+{
+  "Name": "Shroud Crab",
+  "Type": "Animals",
+  "icon": "crab"
+},
+{
+  "Name": "Trog",
+  "Type": "Animals",
+  "icon": "croc-jaws"
+},
+{
+  "Name": "Basilisk",
+  "Type": "Beasts",
+  "icon": "snake-tongue"
+},
+{
+  "Name": "Chitter",
+  "Type": "Beasts",
+  "icon": "metroid"
+},
+{
+  "Name": "Elder Beast",
+  "Type": "Beasts",
+  "icon": "beast-eye"
+},
+{
+  "Name": "Gnarl",
+  "Type": "Beasts",
+  "icon": "stomp"
+},
+{
+  "Name": "Harrow Spider",
+  "Type": "Beasts",
+  "icon": "spider-alt"
+},
+{
+  "Name": "Iron-wracked Beast",
+  "Type": "Beasts",
+  "icon": "spotted-wound"
+},
+{
+  "Name": "Kraken",
+  "Type": "Beasts",
+  "icon": "kraken-tentacle"
+},
+{
+  "Name": "Leviathan",
+  "Type": "Beasts",
+  "icon": "sea-serpent"
+},
+{
+  "Name": "Mammoth",
+  "Type": "Beasts",
+  "icon": "mammoth"
+},
+{
+  "Name": "Nightspawn",
+  "Type": "Beasts",
+  "icon": "infested-mass"
+},
+{
+  "Name": "Rhaskar",
+  "Type": "Beasts",
+  "icon": "shark-jaws"
+},
+{
+  "Name": "Wyrm",
+  "Type": "Beasts",
+  "icon": "spiked-dragon-head"
+},
+{
+  "Name": "Wyvern",
+  "Type": "Beasts",
+  "icon": "wyvern"
+},
+{
+  "Name": "Blighthound",
+  "Type": "Horrors",
+  "icon": "diablo-skull"
+},
+{
+  "Name": "Bog Rot",
+  "Type": "Horrors",
+  "icon": "terror"
+},
+{
+  "Name": "Bonehorde",
+  "Type": "Horrors",
+  "icon": "broken-bone"
+},
+{
+  "Name": "Bonewalker",
+  "Type": "Horrors",
+  "icon": "raise-skeleton"
+},
+{
+  "Name": "Chimera",
+  "Type": "Horrors",
+  "icon": "carrion"
+},
+{
+  "Name": "Frostbound",
+  "Type": "Horrors",
+  "icon": "ice-iris"
+},
+{
+  "Name": "Haunt",
+  "Type": "Horrors",
+  "icon": "burning-skull"
+},
+{
+  "Name": "Hollow",
+  "Type": "Horrors",
+  "icon": "shambling-mound"
+},
+{
+  "Name": "Iron Revenant",
+  "Type": "Horrors",
+  "icon": "barbute"
+},
+{
+  "Name": "Sodden",
+  "Type": "Horrors",
+  "icon": "drowning"
+},
+{
+  "Name": "Thrall",
+  "Type": "Horrors",
+  "icon": "ghost-ally"
+},
+{
+  "Name": "Wight",
+  "Type": "Horrors",
+  "icon": "iron-mask"
+},
+{
+  "Name": "Blood Thorn",
+  "Type": "Anomalies",
+  "icon": "thorny-tentacle"
+},
+{
+  "Name": "Circle of Stones",
+  "Type": "Anomalies",
+  "icon": "dolmen"
+},
+{
+  "Name": "Glimmer",
+  "Type": "Anomalies",
+  "icon": "aura"
+},
+{
+  "Name": "Gloom",
+  "Type": "Anomalies",
+  "icon": "shadow-grasp"
+},
+{
+  "Name": "Maelstrom",
+  "Type": "Anomalies",
+  "icon": "vortex"
+},
+{
+  "Name": "Tempest",
+  "Type": "Anomalies",
+  "icon": "tornado"
+} ]
