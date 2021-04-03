@@ -1,42 +1,42 @@
 [
 {
   "Name": "Broken",
-  "Type": "Ironlanders",
+  "Type": "Ironlander",
   "icon": "skull-mask"
 },
 {
   "Name": "Common Folk",
-  "Type": "Ironlanders",
+  "Type": "Ironlander",
   "icon": "uprising"
 },
 {
   "Name": "Hunter",
-  "Type": "Ironlanders",
+  "Type": "Ironlander",
   "icon": "hunting-horn"
 },
 {
   "Name": "Husk",
-  "Type": "Ironlanders",
+  "Type": "Ironlander",
   "icon": "bad-breath"
 },
 {
   "Name": "Mystic",
-  "Type": "Ironlanders",
+  "Type": "Ironlander",
   "icon": "sheikah-eye"
 },
 {
   "Name": "Raider",
-  "Type": "Ironlanders",
+  "Type": "Ironlander",
   "icon": "flaming-arrow"
 },
 {
   "Name": "Warrior",
-  "Type": "Ironlanders",
+  "Type": "Ironlander",
   "icon": "viking-shield"
 },
 {
   "Name": "Zealot",
-  "Type": "Ironlanders",
+  "Type": "Ironlander",
   "icon": "cultist"
 },
 {
@@ -76,216 +76,216 @@
 },
 {
   "Name": "Bear",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "bear-face"
 },
 {
   "Name": "Bladewing",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "pterodactylus"
 },
 {
   "Name": "Boar",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "boar-tusks"
 },
 {
   "Name": "Carrion Newt",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "gecko"
 },
 {
   "Name": "Cave Lion",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "saber-toothed-cat-head"
 },
 {
   "Name": "Deep Rat",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "grasping-claws"
 },
 {
   "Name": "Gaunt",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "drakkar-dragon"
 },
 {
   "Name": "Marsh Rat",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "rat"
 },
 {
   "Name": "Nightmare Spider",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "spider-eye"
 },
 {
   "Name": "Wolf",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "wolf-head"
 },
 {
   "Name": "Shroud Crab",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "crab"
 },
 {
   "Name": "Trog",
-  "Type": "Animals",
+  "Type": "Animal",
   "icon": "croc-jaws"
 },
 {
   "Name": "Basilisk",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "snake-tongue"
 },
 {
   "Name": "Chitter",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "metroid"
 },
 {
   "Name": "Elder Beast",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "beast-eye"
 },
 {
   "Name": "Gnarl",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "stomp"
 },
 {
   "Name": "Harrow Spider",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "spider-alt"
 },
 {
   "Name": "Iron-wracked Beast",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "spotted-wound"
 },
 {
   "Name": "Kraken",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "kraken-tentacle"
 },
 {
   "Name": "Leviathan",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "sea-serpent"
 },
 {
   "Name": "Mammoth",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "mammoth"
 },
 {
   "Name": "Nightspawn",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "infested-mass"
 },
 {
   "Name": "Rhaskar",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "shark-jaws"
 },
 {
   "Name": "Wyrm",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "spiked-dragon-head"
 },
 {
   "Name": "Wyvern",
-  "Type": "Beasts",
+  "Type": "Beast",
   "icon": "wyvern"
 },
 {
   "Name": "Blighthound",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "diablo-skull"
 },
 {
   "Name": "Bog Rot",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "terror"
 },
 {
   "Name": "Bonehorde",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "broken-bone"
 },
 {
   "Name": "Bonewalker",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "raise-skeleton"
 },
 {
   "Name": "Chimera",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "carrion"
 },
 {
   "Name": "Frostbound",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "ice-iris"
 },
 {
   "Name": "Haunt",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "burning-skull"
 },
 {
   "Name": "Hollow",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "shambling-mound"
 },
 {
   "Name": "Iron Revenant",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "barbute"
 },
 {
   "Name": "Sodden",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "drowning"
 },
 {
   "Name": "Thrall",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "ghost-ally"
 },
 {
   "Name": "Wight",
-  "Type": "Horrors",
+  "Type": "Horror",
   "icon": "iron-mask"
 },
 {
   "Name": "Blood Thorn",
-  "Type": "Anomalies",
+  "Type": "Anomaly",
   "icon": "thorny-tentacle"
 },
 {
   "Name": "Circle of Stones",
-  "Type": "Anomalies",
+  "Type": "Anomaly",
   "icon": "dolmen"
 },
 {
   "Name": "Glimmer",
-  "Type": "Anomalies",
+  "Type": "Anomaly",
   "icon": "aura"
 },
 {
   "Name": "Gloom",
-  "Type": "Anomalies",
+  "Type": "Anomaly",
   "icon": "shadow-grasp"
 },
 {
   "Name": "Maelstrom",
-  "Type": "Anomalies",
+  "Type": "Anomaly",
   "icon": "vortex"
 },
 {
   "Name": "Tempest",
-  "Type": "Anomalies",
+  "Type": "Anomaly",
   "icon": "tornado"
 } ]
